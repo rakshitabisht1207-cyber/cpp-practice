@@ -20,32 +20,13 @@ This repository serves as both my personal learning log and a record of my progr
 - File Handling
 - Standard Template Library (STL)
 
-## 📂 Repository Structure
-```
-cpp-learning-journey/
-│
-├── README.md
-│
-├── Day-01-Basics/
-├── Day-02-Variables/
-├── Day-03-Operators/
-├── Day-04-Conditions/
-├── Day-05-Loops/
-├── Day-06-Functions/
-├── ...
-│
-└── Mini-Projects/
-```
-
----
-
 ## 📈 Progress Tracker
 
 - ✅ C++ Basics
-- ⬜ Variables & Data Types
-- ⬜ Operators
-- ⬜ Conditional Statements
-- ⬜ Loops
+- ✅ Variables & Data Types
+- ✅ Operators
+- ✅ Conditional Statements
+- ✅  Loops
 - ⬜ Functions
 - ⬜ Arrays
 - ⬜ Strings
