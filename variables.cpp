@@ -2,9 +2,9 @@
 A variables is basically a container to store a data.
 Syntax = datatype variable_name =value;
 types of datatypes :
-1. built in datatypes 
-2. user-defined data types
-3.derived data types
+1. built in datatypes (int,float,double,bool,char)
+2. user-defined data types(struct,union,enum)
+3.derived data types(array,function,pointer)
 
 built-in data types are discussed in the code below:
 int,char,float,bool,double
