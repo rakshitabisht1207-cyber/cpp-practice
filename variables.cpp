@@ -38,7 +38,7 @@ int main(){
 
     //const -> a keyword using this you can't change the value of the variable later 
     const int monthInyear = 12;
-    cout<<"month in a year"<< monthInyear<<endl;
+    cout<<"month in a year ="<< monthInyear<<endl;
     
     //monthInyear=13;
     //this would throw an error since its const
